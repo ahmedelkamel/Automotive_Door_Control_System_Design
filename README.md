@@ -6,5 +6,5 @@
 
   Block Diagram
   
-  ![image](https://user-images.githubusercontent.com/85094832/195432236-706faff9-4477-4680-bf34-caa85da7d796.png)
-  
+  ![Automotive_Door_Control_Design_Block_Digram drawio](https://user-images.githubusercontent.com/85094832/196039586-f78aeca3-d6a0-405d-8372-d74efeb91552.png)
+
